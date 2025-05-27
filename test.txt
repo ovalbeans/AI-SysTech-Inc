@@ -1,1 +1,45 @@
-echo "hello world"
+AI SysTech Inc.
+Summary Overview
+AI SysTech Inc. is a Filipino-owned engineering and automation company founded in January 2021, offering innovative automation solutions across multiple industries. Originally a spin-off of Static Power Inc., the company focuses on delivering end-to-end system design, integration, and technical services.
+
+Core Services
+-Building Management Systems (BMS): Intelligent BMS using SCADA and PLC for industrial/commercial buildings.
+-Manufacturing & Process Automation: Automation for plants in chemical, petrochemical, steel, and pharma sectors.
+-Power & Energy Automation: SCADA solutions for power generation, substations, and energy management.
+-Water Treatment Automation: Control systems for water filtration and treatment with remote monitoring.
+-Transportation & Navigation: Automation for rail, marine, traffic, and airports to enhance safety.
+-SCADA & Control Cabinets: Design and programming of control panels using PLC, VFD, and SCADA systems.
+-Fire, CCTV & Access Control: Installation of fire alarms, CCTV, and biometric access systems.
+-Mechanical Services: Air ducting, piping, AC installation, and maintenance.
+Company Background & Mission
+AI SysTech Inc. aims to be a one-stop automation partner, empowering businesses through streamlined operations, increased productivity, and reliable engineering services. The company offers tailored automation solutions backed by skilled engineers and technical experts with experience in:
+
+-Electrical engineering
+-Instrumentation and control
+-Software integration
+-Project execution
+Our Team
+A multidisciplinary team of engineers, project managers, and specialists led by Liberato V. Dimalanta, President and Technical Specialist, delivering high-quality results.
+
+Key Projects
+-MERALCO Technical Service Building: BMS with lighting control.
+-POLARIS Project (Aeon Land): BMS-SCADA and auxiliary systems.
+-ABS-CBN TV Station: Emergency Notification System (BENS).
+-World Trade Center: AC system implementation.
+-DAIKIN (Capella Tower): HVAC automation.
+-SUNPOWER Manufacturing: Full plant automation (BMS & FMS).
+Our Products
+AI SysTech provides advanced automation products and systems tailored for industrial use—enhancing efficiency, productivity, and innovation through cutting-edge technologies.
+
+-Schneider Electric
+-Mitsubishi Electric
+-Allen-Bradley
+-ABB
+-ProSoft Technology
+-Emerson
+-Hioki
+-Hyundai Power Products
+-Siemens
+-Citect
+-Wonderware
+-Kyoritsu
