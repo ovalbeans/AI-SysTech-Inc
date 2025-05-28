@@ -12,8 +12,8 @@ Core Services
 -Manufacturing & Process Automation: Automation for plants in chemical, petrochemical, steel, and pharma sectors.
 -Power & Energy Automation: SCADA solutions for power generation, substations, and energy management.
 -Water Treatment Automation: Control systems for water filtration and treatment with remote monitoring.
--Transportation & Navigation: Automation for rail, marine, traffic, and airports to enhance safety.
--SCADA & Control Cabinets: Design and programming of control panels using PLC, VFD, and SCADA systems.
+-Adipisicing esse sunt ullamco dolore est nulla commodo minim magna.
+-Esse eiusmod aliqua adipisicing laborum ad dolor occaecat deserunt esse ipsum ad velit id dolor.
 -Fire, CCTV & Access Control: Installation of fire alarms, CCTV, and biometric access systems.
 -Mechanical Services: Air ducting, piping, AC installation, and maintenance.
 
