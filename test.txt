@@ -1,6 +1,11 @@
 AI SysTech Inc.
+
 Summary Overview
-AI SysTech Inc. is a Filipino-owned engineering and automation company founded in January 2021, offering innovative automation solutions across multiple industries. Originally a spin-off of Static Power Inc., the company focuses on delivering end-to-end system design, integration, and technical services.
+AI SysTech Incorporated is a proudly Filipino-owned engineering and automation company, established in January 2021 as a strategic spin-off from Static Power Incorporated. This move was driven by a clear purpose to create a specialized arm that focuses on delivering efficient, innovative, and high-quality automation solutions across various industries.
+
+With a strong foundation in engineering expertise, we offer comprehensive end-to-end services from system design and integration to the supply of automation and mechanical products. Our solutions are tailored to meet the specific needs of sectors such as manufacturing, utilities, infrastructure, energy, and more. We don’t just provide products, we deliver turnkey automation solutions. Whether it's upgrading a single system or implementing a full-scale project, we combine cutting-edge technology with skilled manpower to bring your vision to life.
+
+Our mission is simple to be your one-stop automation partner. We aim to empower businesses by streamlining operations, improving productivity, and driving innovation through reliable engineering and automation services.
 
 Core Services
 -Building Management Systems (BMS): Intelligent BMS using SCADA and PLC for industrial/commercial buildings.
@@ -11,6 +16,7 @@ Core Services
 -SCADA & Control Cabinets: Design and programming of control panels using PLC, VFD, and SCADA systems.
 -Fire, CCTV & Access Control: Installation of fire alarms, CCTV, and biometric access systems.
 -Mechanical Services: Air ducting, piping, AC installation, and maintenance.
+
 Company Background & Mission
 AI SysTech Inc. aims to be a one-stop automation partner, empowering businesses through streamlined operations, increased productivity, and reliable engineering services. The company offers tailored automation solutions backed by skilled engineers and technical experts with experience in:
 
@@ -28,9 +34,9 @@ Key Projects
 -World Trade Center: AC system implementation.
 -DAIKIN (Capella Tower): HVAC automation.
 -SUNPOWER Manufacturing: Full plant automation (BMS & FMS).
+
 Our Products
 AI SysTech provides advanced automation products and systems tailored for industrial use—enhancing efficiency, productivity, and innovation through cutting-edge technologies.
-
 -Schneider Electric
 -Mitsubishi Electric
 -Allen-Bradley
