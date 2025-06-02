@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact Form</title>
+  <style>
+    body {
+      background: #f4f6fb;
+      font-family: 'Segoe UI', Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+    }
+    form {
+      background: #fff;
+      padding: 1rem 6.5rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+      width: 100%;
+      max-width: 400px;
+    }
+    form p {
+      margin-bottom: 1.2rem;
+    }
+    label {
+      font-weight: 500;
+      color: #333;
+      display: block;
+      margin-bottom: 0.5rem;
+    }
+    input[type="text"],
+    input[type="email"],
+    textarea {
+      width: 100%;
+      padding: 0.7rem 1rem;
+      border: 1px solid #d1d5db;
+      border-radius: 6px;
+      font-size: 1rem;
+      background: #f9fafb;
+      transition: border-color 0.2s;
+      margin-top: 0.2rem;
+    }
+    input[type="text"]:focus,
+    input[type="email"]:focus,
+    textarea:focus {
+      border-color: #6366f1;
+      outline: none;
+      background: #fff;
+    }
+    textarea {
+      min-height: 100px;
+      resize: vertical;
+    }
+    button[type="submit"] {
+      background: linear-gradient(90deg, #6366f1 0%, #60a5fa 100%);
+      color: #fff;
+      border: none;
+      padding: 0.8rem 2rem;
+      border-radius: 6px;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.2s;
+      box-shadow: 0 2px 8px rgba(99,102,241,0.08);
+    ;
+    }
+    button[type="submit"]:hover {
+      background: linear-gradient(90deg, #4f46e5 0%, #2563eb 100%);
+    }
+    h1{
+        font-size: 3.5rem;
+        margin-bottom: 1rem;
+        color: #111827; 
+        text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <form name="contact" method="POST" data-netlify="true">
+    <input type="hidden" name="form-name" value="contact">
+    <h1>Contact Us</h1>
+    <p>
+      <label>Name:
+        <input type="text" name="name" required>
+      </label>
+    </p>
+    <p>
+      <label>Contact No.:
+        <input type="text" name="contact" required>
+      </label>
+    </p>
+    <p>
+      <label>Email:
+        <input type="email" name="email" required>
+      </label>
+    </p>
+    <p>
+      <label>Message:
+        <textarea name="message" required></textarea>
+      </label>
+    </p>
+    <p>
+      <button type="submit">Send</button>
+    </p>
+  </form>
+</body>
+</html>
